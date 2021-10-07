@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Repo](https://github.com/its-me-musa/insure-landing-page)
+- Live Site URL: [Live Site](https://quirky-bohr-234be1.netlify.app)
 
 ## My process
 
